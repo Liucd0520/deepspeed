@@ -12,7 +12,7 @@ import get_ds_config
 import os
 import time 
 
-
+# run: deepspeed get_start.py 
 
 def add_argument():
     parser = argparse.ArgumentParser(description="CIFAR")
